@@ -1,12 +1,9 @@
-**\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***
-
 # Storefront backend
 
-Auther : Abdelrahman Essam Mohamed
-//////////////////////////////////
-
+##Getting Started
+This repo contains a basic Node and Express app to get you started in constructing an API. To get started, clone this repo and run npm in your terminal at the project root.
 Before We start you need to Follw this Steps :=>
-
+# Required Technologies
 1- To Install Node Backages run : npm install .
 2- To run nodemon & build : npm run start
 
