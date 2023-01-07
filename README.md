@@ -5,17 +5,12 @@ This repo contains a basic Node and Express app to get you started in constructi
 Before We start you need to Follw this Steps :=>
 # Required Technologies
 1- To Install Node Backages run : npm install .
-2- To run nodemon & build : npm run start
-
-3- To run jasmine & build : npm run test
-
-4- To run Server : npm run dev
-
-/////////////////////////////////////////////
+2- To run nodemon & build : npm run start .
+3- To run jasmine & build : npm run test .
+4- To run Server : npm run dev .
 
 # All API Routes in the router Folder
 
-///////////////////////////////////////////
 
 # Migrations :
 
